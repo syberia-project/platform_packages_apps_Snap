@@ -1194,6 +1194,7 @@
     <string name="pref_camera2_eis_default" translatable="false">disable</string>
     <string name="pref_camera2_eis_entry_v2enable">V2</string>
     <string name="pref_camera2_eis_entry_v3enable">V3</string>
+    <string name="pref_camera2_eis_entry_v3_set_when_pause">V3 and set when pause</string>
     <string name="pref_camera2_eis_entry_disable">Disabled</string>
     <string name="pref_camera2_eis_entry_v3_set_when_pause" translatable="false">V3 and set when pause</string>
     <string name="pref_camera2_eis_entry_value_v2enable" translatable="false">V2</string>
