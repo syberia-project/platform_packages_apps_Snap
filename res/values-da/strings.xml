@@ -132,15 +132,15 @@
   <string name="unknown">Ukendt</string>
   <!-- Toast message shown after we try to make a local album available offline
          [CHAR LIMIT=150] -->
-  <string name="try_to_set_local_album_available_offline">Dette element er gemt lokalt og er tilgængeligt offline.</string>
+  <string name="try_to_set_local_album_available_offline">        Dette element er lagret lokalt og tilgængeligt offline.</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Vent</string>
   <!-- Text to show with progress bar while stitching a photo sphere. 'Photo sphere' is a product name. [CHAR LIMIT=35]-->
-  <string name="rendering_photo_sphere">Gengiver billedboble</string>
+  <string name="rendering_photo_sphere">Gengiver billedsfære</string>
   <!-- title for the dialog showing the error of camera hardware -->
   <string name="camera_error_title">Kamerafejl</string>
   <!-- message for the dialog showing the error of camera hardware -->
-  <string name="cannot_connect_camera">Der kan ikke oprettes forbindelse til kameraet.</string>
+  <string name="cannot_connect_camera">Kan ikke forbinde til kameraet.</string>
   <!-- message for the dialog showing the camera is disabled because of security policies. Camera cannot be used. -->
   <string name="camera_disabled">Kameraet er deaktiveret på grund af sikkerhedspolitikker.</string>
   <!-- message for the dialog showing that the app does not have sufficient permissions [CHAR LIMIT=NONE] -->
@@ -298,7 +298,7 @@
   <!-- Settings menu countdown timer 15 seconds [CHAR LIMIT=50] -->
   <string name="pref_camera_countdown_label_fifteen">15 SEKUNDER</string>
   <!-- Toast after trying to select a setting that is not allowed to change in scene mode [CHAR LIMIT=NONE] -->
-  <string name="not_selectable_in_scene_mode">Denne indstilling kan ikke vælges i motivtilstand.</string>
+  <string name="not_selectable_in_scene_mode">Ikke-valgbart i sceneri-tilstand.</string>
   <!-- Toast after enable HDR function to inform Continuous Shot has disabled -->
   <string name="HDR_disable_continuous_shot">Aktivering af HDR vil deaktivere kontinuerlig optagelse.</string>
   <!-- Toast after enable Advanced Capture function to inform Continuous Shot has disabled -->
@@ -399,7 +399,7 @@
   <!-- The mode picker to switch between camera, video and panorama. [CHAR LIMIT = NONE] -->
   <string name="accessibility_mode_picker">Valg af kamera, video eller panorama</string>
   <!-- The check box in camera settings, such as store location. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_check_box">Afkrydsningsfeltet for %1$s</string>
+  <string name="accessibility_check_box">%1$s-afkrydsningsfelt</string>
   <!-- The button to switch to Camera mode. [CHAR LIMIT = NONE] -->
   <string name="accessibility_switch_to_camera">Skift til billede</string>
   <!-- The button to switch to Video mode. [CHAR LIMIT = NONE] -->

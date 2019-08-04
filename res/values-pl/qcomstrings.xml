@@ -199,6 +199,7 @@
   <string name="pref_camera_hfr_entry_hsr_90">Wysoka szybkość 90 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_120">Wysoka szybkość 120 FPS</string>
   <string name="pref_camera_hfr_entry_hsr_240">Wysoka szybkość: 240 FPS</string>
+  <string name="pref_camera_hfr_entry_hsr_480">Duża prędkość 480 FPS</string>
   <!-- HFR entry values. Do not translate. -->
   <!-- Default noise reduction setting. Do not translate. -->
   <!-- Settings screen, Select See More title -->
@@ -547,6 +548,7 @@
   <string name="pref_camera2_zsl_entry_disable">Wyłączone</string>
   <string name="pref_camera2_zsl_entry_app_zsl">Programowe ZSL</string>
   <string name="pref_camera2_zsl_entry_hal_zsl">Sprzętowe ZSL</string>
+  <string name="pref_camera2_stats_visualizer_entry_be_stats">BE statystyki</string>
   <!-- QCFA Title -->
   <!-- QCFA choices -->
   <string name="pref_camera2_switch_camera_title">Przełączenie kamery na podstawie ID</string>
