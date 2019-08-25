@@ -535,4 +535,8 @@ CHAR LIMIT = NONE] -->
   <!-- Menu, Video rotation labels [CHAR LIMIT=50] -->
   <string name="save_best_dialog_positive_bt">OK</string>
   <string name="delete_best_dialog_positive_bt">Kustuta</string>
+  <string name="delete_best_dialog_title">Kustutada kõik?</string>
+  <string name="delete_best_dialog_content">Olete kindel, et soovite kustutada kõik 10 tehtud pilti?</string>
+  <string name="delete_all_best_dialog_title">Kustutada kõik?</string>
+  <string name="delete_all_best_dialog_content">Olete kindel, et soovite kustutada kõik pildid?</string>
 </resources>
