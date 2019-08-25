@@ -547,6 +547,7 @@
   <string name="pref_camera2_zsl_entry_disable">Désactivé</string>
   <string name="pref_camera2_zsl_entry_app_zsl">Zéro délai d\'obturation logiciel</string>
   <string name="pref_camera2_zsl_entry_hal_zsl">Zéro délai d\'obturation matériel</string>
+  <string name="pref_camera2_stats_visualizer_entry_hist_stats">Historique</string>
   <!-- QCFA Title -->
   <!-- QCFA choices -->
   <string name="pref_camera2_switch_camera_title">Changer d\'appareil photo par ID</string>

@@ -557,6 +557,11 @@
   <string name="pref_camera2_afmode_entry_continuous_picture">Jatkuva kuva</string>
   <string name="pref_camera2_afmode_entry_edof">Laajennettu tarkennuksen syvyys</string>
   <string name="pref_camera2_eis_title">Videon digitaalinen kuvanvakautus</string>
+  <string name="pref_camera2_eis_entry_v3_set_when_pause">V3 ja aseta kun tauko</string>
+  <string name="pref_camera2_fovc_title">Video FOVC</string>
+  <string name="pref_camera2_stats_visualizer_title">Tilastojen visualisointi</string>
+  <string name="pref_camera2_stats_visualizer_entry_bg_stats">BG tilastot</string>
+  <string name="pref_camera2_stats_visualizer_entry_be_stats">BE tilastot</string>
   <string name="pref_camera2_stats_visualizer_entry_disable">Poista kaikki käytöstä</string>
   <string name="pref_camera2_capture_mfnr_title">Monikehyksinen kohinanvaimennus</string>
   <string name="pref_camera2_capture_mfsr_title">Monikehyksinen supertarkkuus</string>
